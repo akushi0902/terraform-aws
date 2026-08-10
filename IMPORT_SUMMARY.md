@@ -1,0 +1,65 @@
+# Import Summary
+
+Source Organization: terraform-aws-modules
+
+Imported Repositories:
+
+- .github
+- atlantis-demo
+- meta
+- terraform-aws-acm
+- terraform-aws-alb
+- terraform-aws-apigateway-v2
+- terraform-aws-app-runner
+- terraform-aws-appconfig
+- terraform-aws-appsync
+- terraform-aws-atlantis
+- terraform-aws-autoscaling
+- terraform-aws-batch
+- terraform-aws-cloudfront
+- terraform-aws-cloudwatch
+- terraform-aws-customer-gateway
+- terraform-aws-datadog-forwarders
+- terraform-aws-dms
+- terraform-aws-dynamodb-table
+- terraform-aws-ec2-instance
+- terraform-aws-ecr
+- terraform-aws-ecs
+- terraform-aws-efs
+- terraform-aws-eks
+- terraform-aws-eks-pod-identity
+- terraform-aws-elasticache
+- terraform-aws-elb
+- terraform-aws-emr
+- terraform-aws-eventbridge
+- terraform-aws-fsx
+- terraform-aws-global-accelerator
+- terraform-aws-iam
+- terraform-aws-key-pair
+- terraform-aws-kms
+- terraform-aws-lambda
+- terraform-aws-managed-service-grafana
+- terraform-aws-managed-service-prometheus
+- terraform-aws-memory-db
+- terraform-aws-msk-kafka-cluster
+- terraform-aws-network-firewall
+- terraform-aws-notify-slack
+- terraform-aws-opensearch
+- terraform-aws-pricing
+- terraform-aws-rds
+- terraform-aws-rds-aurora
+- terraform-aws-rds-proxy
+- terraform-aws-redshift
+- terraform-aws-route53
+- terraform-aws-s3-bucket
+- terraform-aws-secrets-manager
+- terraform-aws-security-group
+- terraform-aws-sns
+- terraform-aws-solutions
+- terraform-aws-sqs
+- terraform-aws-ssm-parameter
+- terraform-aws-step-functions
+- terraform-aws-transit-gateway
+- terraform-aws-vpc
+- terraform-aws-vpn-gateway
+- terraform-aws-wafv2
